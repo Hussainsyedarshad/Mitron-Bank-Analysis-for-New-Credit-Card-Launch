@@ -1,10 +1,4 @@
 # CRPC8: Mitron Bank: Analysis for New Credit Card Launch 
-
-## Created by- Saddam Ansari @Aspiring Data Analyst [Linkeldin Profile](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/mitron-bank-credit-card-analysis-crpc8-by---saddam-ansari)
-### Linkeldin post for this project with presentation video [Link](https://www.linkedin.com/posts/saddam-ansari-dataanalyst_codebasicsresumeprojectchallenge-like-comment-activity-7148218554763448320-Qd6b?utm_source=share&utm_medium=member_desktop)
-### Presentation ppt at Canva [Link](https://www.canva.com/design/DAF4cPSsnUU/14YqtWQOic0R7VCEVx8T6w/edit?utm_content=DAF4cPSsnUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 #
 ## Table of Content
 1. [About Mitron Bank](#about-mitron-bank)
