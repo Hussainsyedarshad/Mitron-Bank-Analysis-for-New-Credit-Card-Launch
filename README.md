@@ -1,18 +1,4 @@
 # CRPC8: Mitron Bank: Analysis for New Credit Card Launch 
-#
-## Table of Content
-1. [About Mitron Bank](#about-mitron-bank)
-2. [Objective of the Project](#objective-of-the-project)
-3. [Problem Statment](#problem-statment)
-4. [Demographic Classification](#demographic-classification)
-5. [Income Utilization & Spending Analysis](#income-utilization--spending-analysis)
-6. [Table Grid View Page](#table-grid-view-page)
-7. [Recomendation](#recomendation-for-next-credit-card)
-8. [Footer](#dont-forget-to-give-a-start-to-this-project-because-its-motivate-me-and-also-please-follow-me-on-linkeldin-and-please-consider-me-for-any-internship-or-entry-level-data-analyst-role-i-need-a-job-or-internship-even-thought-its-a-free-or-paid-thanks-in-advance)
-
-
-
-#
 ### About Mitron Bank 
 [🔁Home](#table-of-content)
 
